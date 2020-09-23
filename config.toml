@@ -1,0 +1,16 @@
+theme = "hyde"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Web Site"
+
+[Menus]
+  main = [
+      {Name = "About", URL = "content/About"},
+      {Name = "Projects", URL = "/Projects"},
+      {Name = "Github", URL = "https://github.com/c-myang/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
+  ]
+  
+[params]
+  description = "Hello! Welcome to my STA304 Site"
+
