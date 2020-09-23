@@ -6,7 +6,7 @@ title = "My New Web Site"
 [Menus]
   main = [
       {Name = "About", URL = "content/About"},
-      {Name = "Projects", URL = "/Projects"},
+      {Name = "Projects", URL = "/content"},
       {Name = "Github", URL = "https://github.com/c-myang/"},
       {Name = "LinkedIn", URL = "https://www.linkedin.com/in/username/"}
   ]
